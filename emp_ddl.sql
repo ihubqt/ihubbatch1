@@ -1,3 +1,3 @@
-create table emp( empid int, name varchar(10));
+create table emp( empid int, name varchar(10),esal int);
 
-insert into emp ( empid,name) values ( 1,'ihub');
+insert into emp ( empid,name) values ( 1,'ihub', 10000);
